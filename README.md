@@ -1,0 +1,2 @@
+# ANM-Assist-A-Safe-Multilingual-RAG-Assistant-for-Maternal-Healthcare
+A multilingual, safety-aware Retrieval-Augmented Generation (RAG) system for maternal healthcare. It combines hybrid retrieval, reranking, confidence-based escalation, and LLMs to deliver evidence-grounded responses from trusted medical guidelines while minimizing hallucinations. Supports evaluation, retrieval fine-tuning, and cost/latency analysis
