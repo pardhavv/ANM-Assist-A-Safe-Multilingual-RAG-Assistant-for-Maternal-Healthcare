@@ -1,0 +1,11 @@
+venv/ 
+.env 
+__pycache__/ 
+*.pyc 
+vector_store/*.pkl 
+logs/ 
+models/finetuned-embedder/ 
+*.db 
+vector_store/ 
+knowledge_base/*.pdf 
+knowledge_base/*.pdf 

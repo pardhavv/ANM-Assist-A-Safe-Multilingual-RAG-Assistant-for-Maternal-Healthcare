@@ -1,0 +1,20 @@
+[
+  {"query": "Patient soaking through pads quickly, heavy bleeding in pregnancy", "gold_passage": "Severe vaginal bleeding at any stage of pregnancy — soaking more than one pad per hour, or bleeding with clots."},
+  {"query": "She can't see clearly and has a bad headache, 30 weeks pregnant", "gold_passage": "Severe headache with blurred vision — especially after 20 weeks, may indicate pre-eclampsia."},
+  {"query": "Her BP reading is 150 over 95, is that too high?", "gold_passage": "High blood pressure — systolic ≥ 140 mmHg or diastolic ≥ 90 mmHg on two readings, especially combined with swelling of face/hands."},
+  {"query": "Woman started fitting and shaking uncontrollably", "gold_passage": "Convulsions or fits — possible eclampsia. This is a medical emergency requiring immediate transport to a facility with obstetric care."},
+  {"query": "Baby hasn't kicked in hours, past 7 months pregnant", "gold_passage": "Reduced or absent fetal movement — after 28 weeks, if the mother reports fewer than 10 movements in 2 hours."},
+  {"query": "Her waters broke early, before due date", "gold_passage": "Draining of watery fluid from vagina before 37 weeks — possible premature rupture of membranes."},
+  {"query": "Feet a little puffy, should I worry?", "gold_passage": "Mild swelling of feet/ankles (common; concerning if it spreads to face/hands)"},
+  {"query": "How low does hemoglobin need to be before it's an emergency?", "gold_passage": "< 7 g/dL is severe anemia and requires immediate referral for possible transfusion evaluation."},
+  {"query": "Delivered at home, now bleeding a lot and soaking pads fast", "gold_passage": "Heavy bleeding (soaking a pad in <30 minutes) — possible postpartum hemorrhage, life-threatening."},
+  {"query": "First checkup schedule for a newly confirmed pregnancy", "gold_passage": "ANC 1 | As soon as pregnancy confirmed, ideally within first trimester | Registration, blood pressure, weight, hemoglobin, blood group, urine test, HIV/syphilis screening, LMP & EDD calculation"},
+  {"query": "How much more should she eat daily in the last few months?", "gold_passage": "Increase caloric intake by ~300 kcal/day in 2nd and 3rd trimester"},
+  {"query": "Newborn breathing really fast and grunting", "gold_passage": "Fast breathing (>60 breaths/min) or grunting"},
+  {"query": "Baby refusing to breastfeed, is that urgent?", "gold_passage": "Not feeding / refusing to feed"},
+  {"query": "Baby's palms and feet look yellow", "gold_passage": "Yellowing of skin on palms/soles (severe jaundice)"},
+  {"query": "Mom won't stop crying and can't connect with the newborn weeks later", "gold_passage": "Watch for signs of postpartum depression: persistent sadness, inability to bond, extreme anxiety beyond 2 weeks — refer for mental health support"},
+  {"query": "Skin-to-skin technique for a very small baby under 2kg", "gold_passage": "Continuous or near-continuous skin-to-skin contact"},
+  {"query": "Cord infection with pus and bad smell in newborn", "gold_passage": "Umbilical redness/pus/foul smell"},
+  {"query": "When can birth control be discussed post-delivery?", "gold_passage": "Family planning counseling can begin at first PNC visit"}
+]
