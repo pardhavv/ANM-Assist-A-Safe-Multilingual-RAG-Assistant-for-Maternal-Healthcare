@@ -1,4 +1,4 @@
-ANM Assist — Multilingual RAG Clinical Decision Support Assistant
+# ANM Assist — Multilingual RAG Clinical Decision Support Assistant
 
 A production-shaped (not production-scale) RAG system for frontline maternal-health
 workers, built to demonstrate: hybrid retrieval, reranking, a multi-signal confidence
